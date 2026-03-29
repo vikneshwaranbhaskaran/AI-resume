@@ -1,0 +1,122 @@
+{
+  "job_roles": [
+    {
+      "title": "Data Analyst",
+      "required_skills": ["python", "sql", "excel", "statistics", "tableau", "data visualization", "pandas", "numpy", "power bi", "r"],
+      "core_skills": ["python", "sql", "excel"],
+      "description": "Analyze data to help organizations make better decisions.",
+      "avg_salary": "$65,000 - $95,000",
+      "demand": "High"
+    },
+    {
+      "title": "Data Scientist",
+      "required_skills": ["python", "machine learning", "statistics", "sql", "tensorflow", "scikit-learn", "deep learning", "pandas", "numpy", "r", "data visualization"],
+      "core_skills": ["python", "machine learning", "statistics"],
+      "description": "Build predictive models and extract insights from complex data.",
+      "avg_salary": "$90,000 - $140,000",
+      "demand": "Very High"
+    },
+    {
+      "title": "Web Developer",
+      "required_skills": ["html", "css", "javascript", "react", "nodejs", "git", "sql", "rest api", "typescript", "responsive design"],
+      "core_skills": ["html", "css", "javascript"],
+      "description": "Build and maintain websites and web applications.",
+      "avg_salary": "$60,000 - $110,000",
+      "demand": "High"
+    },
+    {
+      "title": "Frontend Developer",
+      "required_skills": ["html", "css", "javascript", "react", "typescript", "git", "vue", "responsive design", "sass", "webpack"],
+      "core_skills": ["html", "css", "javascript", "react"],
+      "description": "Design and implement user interfaces for web applications.",
+      "avg_salary": "$70,000 - $115,000",
+      "demand": "High"
+    },
+    {
+      "title": "Backend Developer",
+      "required_skills": ["python", "java", "nodejs", "sql", "rest api", "docker", "git", "postgresql", "mongodb", "redis"],
+      "core_skills": ["python", "sql", "rest api"],
+      "description": "Build server-side logic, APIs, and databases for applications.",
+      "avg_salary": "$75,000 - $125,000",
+      "demand": "High"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "required_skills": ["python", "machine learning", "tensorflow", "pytorch", "scikit-learn", "deep learning", "sql", "docker", "git", "mlops"],
+      "core_skills": ["python", "machine learning", "tensorflow"],
+      "description": "Design and deploy scalable machine learning systems.",
+      "avg_salary": "$100,000 - $160,000",
+      "demand": "Very High"
+    },
+    {
+      "title": "DevOps Engineer",
+      "required_skills": ["linux", "docker", "kubernetes", "aws", "ci/cd", "git", "terraform", "ansible", "python", "bash"],
+      "core_skills": ["docker", "linux", "aws"],
+      "description": "Manage infrastructure, deployments, and CI/CD pipelines.",
+      "avg_salary": "$85,000 - $135,000",
+      "demand": "Very High"
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "required_skills": ["networking", "linux", "python", "ethical hacking", "firewalls", "siem", "cryptography", "penetration testing", "vulnerability assessment"],
+      "core_skills": ["networking", "linux", "ethical hacking"],
+      "description": "Protect systems and networks from cyber threats.",
+      "avg_salary": "$70,000 - $120,000",
+      "demand": "Very High"
+    },
+    {
+      "title": "Cloud Engineer",
+      "required_skills": ["aws", "azure", "gcp", "docker", "kubernetes", "terraform", "networking", "linux", "python", "ci/cd"],
+      "core_skills": ["aws", "docker", "networking"],
+      "description": "Design and manage cloud infrastructure and services.",
+      "avg_salary": "$90,000 - $145,000",
+      "demand": "Very High"
+    },
+    {
+      "title": "Mobile Developer",
+      "required_skills": ["swift", "kotlin", "react native", "flutter", "java", "android", "ios", "git", "rest api", "firebase"],
+      "core_skills": ["swift", "kotlin", "react native"],
+      "description": "Build native or cross-platform mobile applications.",
+      "avg_salary": "$80,000 - $130,000",
+      "demand": "High"
+    },
+    {
+      "title": "Database Administrator",
+      "required_skills": ["sql", "postgresql", "mysql", "oracle", "mongodb", "database design", "backup recovery", "performance tuning", "linux"],
+      "core_skills": ["sql", "database design", "postgresql"],
+      "description": "Manage and optimize database systems for performance and reliability.",
+      "avg_salary": "$70,000 - $110,000",
+      "demand": "Medium"
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "required_skills": ["sql", "tableau", "power bi", "excel", "data modeling", "etl", "python", "statistics", "data warehousing"],
+      "core_skills": ["sql", "tableau", "power bi"],
+      "description": "Build dashboards and reports to support business decisions.",
+      "avg_salary": "$75,000 - $115,000",
+      "demand": "High"
+    }
+  ],
+  "skill_resources": {
+    "python": {"platform": "Coursera", "url": "https://www.coursera.org/learn/python", "duration": "4 weeks"},
+    "sql": {"platform": "SQLZoo", "url": "https://sqlzoo.net", "duration": "2 weeks"},
+    "machine learning": {"platform": "Coursera (Andrew Ng)", "url": "https://www.coursera.org/learn/machine-learning", "duration": "11 weeks"},
+    "javascript": {"platform": "freeCodeCamp", "url": "https://www.freecodecamp.org", "duration": "6 weeks"},
+    "react": {"platform": "React Docs", "url": "https://react.dev/learn", "duration": "4 weeks"},
+    "docker": {"platform": "Docker Docs", "url": "https://docs.docker.com/get-started", "duration": "2 weeks"},
+    "aws": {"platform": "AWS Training", "url": "https://aws.amazon.com/training", "duration": "8 weeks"},
+    "html": {"platform": "MDN Web Docs", "url": "https://developer.mozilla.org", "duration": "2 weeks"},
+    "css": {"platform": "CSS-Tricks", "url": "https://css-tricks.com", "duration": "2 weeks"},
+    "tableau": {"platform": "Tableau Public", "url": "https://public.tableau.com", "duration": "3 weeks"},
+    "excel": {"platform": "Microsoft Learn", "url": "https://learn.microsoft.com/en-us/office/", "duration": "2 weeks"},
+    "tensorflow": {"platform": "TensorFlow.org", "url": "https://www.tensorflow.org/tutorials", "duration": "6 weeks"},
+    "git": {"platform": "GitHub Learning Lab", "url": "https://lab.github.com", "duration": "1 week"},
+    "linux": {"platform": "Linux Journey", "url": "https://linuxjourney.com", "duration": "3 weeks"},
+    "kubernetes": {"platform": "Kubernetes Docs", "url": "https://kubernetes.io/docs", "duration": "4 weeks"},
+    "statistics": {"platform": "Khan Academy", "url": "https://www.khanacademy.org/math/statistics-probability", "duration": "6 weeks"},
+    "data visualization": {"platform": "Kaggle", "url": "https://www.kaggle.com/learn/data-visualization", "duration": "3 weeks"},
+    "nodejs": {"platform": "Node.js Docs", "url": "https://nodejs.org/en/learn", "duration": "4 weeks"},
+    "typescript": {"platform": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs", "duration": "2 weeks"},
+    "mongodb": {"platform": "MongoDB University", "url": "https://university.mongodb.com", "duration": "3 weeks"}
+  }
+}
